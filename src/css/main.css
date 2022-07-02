@@ -275,9 +275,10 @@ body {
 #slider-span22:target ~ .image-slider {left: -87%;}
 #slider-span23:target ~ .image-slider {left: -95%;}
 
-
+/*
 audio {
     position: absolute;
     left: -999px;
     top: -999px;
 }
+*/
